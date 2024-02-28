@@ -2,9 +2,9 @@ import requests
 from datetime import datetime, timedelta
 from tkinter import *
 
-USER_NAME = "tubbietoaster"
-TOKEN = "baasoi393hrie092ee8f"
-GRAPH_ID = "graph12121"
+USER_NAME = ""
+TOKEN = ""
+GRAPH_ID = ""
 
 pixela_endpoint = "https://pixe.la/v1/users"
 
